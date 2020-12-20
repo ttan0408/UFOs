@@ -32,16 +32,16 @@ function updateFilters() {
 
     // 4a. Save the element that was changed as a variable.
     
-    var changedElement = d3.select(this).select("input");
+    let changedElement = d3.select(this).select("input");
 
     // 4b. Save the value that was changed as a variable.
 
-    var elementValue = changedElement.property("value");
+    let elementValue = changedElement.property("value");
     console.log(elementValue);
 
     // 4c. Save the id of the filter that was changed as a variable.
 
-    var filterId = changedElement.attr("id");
+    let filterId = changedElement.attr("id");
     console.log(filterId);
 
     // 5. If a filter value was entered then add that filterId and value
