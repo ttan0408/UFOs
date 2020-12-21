@@ -15,7 +15,7 @@ Dana would like to have an in-depth analysis of UFO sightings by allowing users 
   . The sumarry table base on state UFOs observation are shown below :
   ![alt text][Image2]
   
-  [Image2]: https://github.com/ttan0408/Mission-to-Mars/blob/main/Challenge_2.PNG "UFOs observation by states"
+  [Image2]: https://github.com/ttan0408/UFOs/blob/main/STATE_WITH_MOST_UFOs_OBSERVATION.PNG "UFOs observation by states"
   
  ## 3 Add Bootstrap 3 Components
   Robin really impress with the web-app ,but she like to make it more stand out. To deliver this request we have to use the Bootstrap 3 components. We modified the index.html     so that the title "Mars Hemisphere" stand out with the format using jumbotron and h1. We also make the image display using thumpnail format with mixed: mobile and desktop of   col-md-3. The result for this are shown below :
