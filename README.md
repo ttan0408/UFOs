@@ -18,7 +18,7 @@ Dana would like to have an in-depth analysis of UFO sightings by allowing users 
   [Image2]: https://github.com/ttan0408/UFOs/blob/main/STATE_WITH_MOST_UFOs_OBSERVATION.PNG "UFOs observation by states"
   
  ## 3 UFOs shape
-   In this analysis, the light shape UFOs seems to have the most observation and this is quite of interesting because light shape can be fireworks light ball. This filtered        events coincide with new year date 1/1/2010 when people celebrate with fireworks and mistakely reported as UFOs objects.
+   In this analysis, the light shape UFOs seems to have the most observation with 26 reports. This is quite of interesting because light shape can be fireworks light ball. This    filtered events coincide with new year date 1/1/2010 when people celebrate with fireworks and mistakely reported as UFOs objects.
    The result for this are shown below :
   
   Summary table for UFOs shape observation :
